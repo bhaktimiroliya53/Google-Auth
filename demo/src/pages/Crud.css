@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.container .form-box {
+  margin: 50px;
+}
+.container .form-box .form-section button {
+  background-color: transparent;
+  color: #0066ff;
+  font-weight: bold;
+  border: none;
+}
+.container .form-box .form-section button a {
+  text-decoration: none;
+}/*# sourceMappingURL=Crud.css.map */

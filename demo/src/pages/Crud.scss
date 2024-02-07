@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container {
+    .form-box {
+        margin: 50px;
+        .form-section{
+            button{
+                background-color: transparent;
+                color: #0066ff;
+                font-weight: bold;
+                border: none;
+                a{
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
